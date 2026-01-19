@@ -1,0 +1,473 @@
+2026-01-14 13:06:03,821 - __main__ - INFO - Reconnaissance vocale initialis�e
+2026-01-14 13:06:03,960 - __main__ - INFO - Synth�se vocale initialis�e
+2026-01-14 13:06:03,961 - __main__ - INFO - Assistant initialis� avec succ�s
+2026-01-14 13:12:54,814 - __main__ - INFO - Reconnaissance vocale initialis�e
+2026-01-14 13:12:54,820 - __main__ - INFO - Synth�se vocale initialis�e
+2026-01-14 13:12:54,823 - __main__ - INFO - Assistant initialis� avec succ�s
+2026-01-14 13:13:06,608 - __main__ - ERROR - Erreur parole: run loop already started
+2026-01-14 15:06:47,298 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Administrateur\\PycharmProjects\\chatvoice\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-14 15:06:47,299 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Administrateur\PycharmProjects\chatvoice\.venv\Lib\site-packages\comtypes\gen'
+2026-01-14 15:07:03,424 - __main__ - ERROR - Erreur lors de la synth�se vocale: run loop already started
+2026-01-14 15:07:34,154 - __main__ - WARNING - Erreur reconnaissance: 
+2026-01-14 15:09:09,348 - __main__ - ERROR - Erreur lors de la synth�se vocale: run loop already started
+2026-01-14 15:10:16,620 - __main__ - ERROR - Erreur lors de la synth�se vocale: (-2147352567, 'Une exception s�est produite.', (0, None, None, None, 0, -2147201018), None)
+2026-01-14 15:17:27,773 - __main__ - ERROR - Erreur lors de la synth�se vocale: run loop already started
+2026-01-15 07:35:41,687 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Administrateur\\PycharmProjects\\chatvoice\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-15 07:35:41,688 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Administrateur\PycharmProjects\chatvoice\.venv\Lib\site-packages\comtypes\gen'
+2026-01-15 14:25:44,202 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Administrateur\\PycharmProjects\\chatvoice\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-15 14:25:44,204 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Administrateur\PycharmProjects\chatvoice\.venv\Lib\site-packages\comtypes\gen'
+2026-01-15 14:26:03,846 - __main__ - ERROR - Erreur lors de la synth�se vocale: [WinError 32] Le processus ne peut pas acc�der au fichier car ce fichier est utilis� par un autre processus: 'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\tmp10bu_n55.mp3'
+2026-01-15 14:26:12,136 - __main__ - ERROR - Erreur lors de la synth�se vocale: [WinError 32] Le processus ne peut pas acc�der au fichier car ce fichier est utilis� par un autre processus: 'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\tmpv4kxe2xr.mp3'
+2026-01-15 14:26:28,176 - __main__ - ERROR - Erreur lors de la synth�se vocale: [WinError 32] Le processus ne peut pas acc�der au fichier car ce fichier est utilis� par un autre processus: 'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\tmpibcnsbrq.mp3'
+2026-01-15 14:26:41,657 - __main__ - ERROR - Erreur lors de la synth�se vocale: [WinError 32] Le processus ne peut pas acc�der au fichier car ce fichier est utilis� par un autre processus: 'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\tmpuy27hlwp.mp3'
+2026-01-15 14:27:00,835 - __main__ - ERROR - Erreur lors de la synth�se vocale: [WinError 32] Le processus ne peut pas acc�der au fichier car ce fichier est utilis� par un autre processus: 'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\tmpkfhzgquc.mp3'
+2026-01-15 14:35:36,045 - __main__ - ERROR - Erreur lors de la synth�se vocale: [WinError 32] Le processus ne peut pas acc�der au fichier car ce fichier est utilis� par un autre processus: 'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\tmpsvxfatdr.mp3'
+2026-01-15 14:36:48,671 - __main__ - WARNING - Erreur reconnaissance: listening timed out while waiting for phrase to start
+2026-01-15 14:36:50,920 - __main__ - ERROR - Erreur lors de la synth�se vocale: run loop already started
+2026-01-15 15:14:12,240 - __main__ - ERROR - Erreur application : 'utf-8' codec can't decode byte 0xe9 in position 75: invalid continuation byte
+Traceback (most recent call last):
+  File "C:\Users\Administrateur\PycharmProjects\chatvoice\voice.py", line 2290, in run
+    logs = f.read()[-5000:]
+           ~~~~~~^^
+  File "<frozen codecs>", line 325, in decode
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe9 in position 75: invalid continuation byte
+2026-01-16 13:33:57,349 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Administrateur\\PycharmProjects\\chatvoice\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-16 13:33:57,359 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Administrateur\PycharmProjects\chatvoice\.venv\Lib\site-packages\comtypes\gen'
+2026-01-16 14:13:56,516 - __main__ - ERROR - Erreur lors de la synth�se vocale: run loop already started
+2026-01-16 14:14:04,059 - __main__ - ERROR - Erreur lors de la synth�se vocale: run loop already started
+2026-01-16 14:14:07,568 - __main__ - ERROR - Erreur lors de la synth�se vocale: run loop already started
+2026-01-16 14:14:29,755 - __main__ - ERROR - Erreur lors de la synth�se vocale: run loop already started
+2026-01-16 14:20:49,493 - __main__ - ERROR - Erreur lors de la synth�se vocale: run loop already started
+2026-01-16 14:36:24,713 - __main__ - ERROR - Erreur initialisation : 'VoiceManager' object has no attribute '_start_worker'
+Traceback (most recent call last):
+  File "C:\Users\Administrateur\PycharmProjects\chatvoice\voice.py", line 2401, in main
+    ui = ProfessionalAssistantUI()
+  File "C:\Users\Administrateur\PycharmProjects\chatvoice\voice.py", line 1501, in __init__
+    self.assistant = ProfessionalAssistant()
+                     ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrateur\PycharmProjects\chatvoice\voice.py", line 603, in __init__
+    self.voice_manager = VoiceManager()
+                         ~~~~~~~~~~~~^^
+  File "C:\Users\Administrateur\PycharmProjects\chatvoice\voice.py", line 200, in __init__
+    self._start_worker()
+    ^^^^^^^^^^^^^^^^^^
+AttributeError: 'VoiceManager' object has no attribute '_start_worker'
+2026-01-16 14:39:50,356 - __main__ - ERROR - Erreur gTTS: [WinError 32] Le processus ne peut pas acc�der au fichier car ce fichier est utilis� par un autre processus: 'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\tmp_t87pf4x.mp3'
+2026-01-16 14:39:59,470 - __main__ - ERROR - Erreur gTTS: [WinError 32] Le processus ne peut pas acc�der au fichier car ce fichier est utilis� par un autre processus: 'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\tmpx7p27mak.mp3'
+2026-01-16 14:40:08,281 - __main__ - WARNING - Aucun moteur vocal disponible
+2026-01-16 14:40:09,083 - __main__ - ERROR - Erreur gTTS: [WinError 32] Le processus ne peut pas acc�der au fichier car ce fichier est utilis� par un autre processus: 'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\tmp7jc8ld4p.mp3'
+2026-01-16 14:40:15,036 - __main__ - WARNING - Aucun moteur vocal disponible
+2026-01-16 14:40:20,047 - __main__ - WARNING - Aucun moteur vocal disponible
+2026-01-16 14:40:23,868 - __main__ - WARNING - Aucun moteur vocal disponible
+2026-01-16 14:40:36,834 - __main__ - WARNING - Aucun moteur vocal disponible
+2026-01-16 14:40:41,265 - __main__ - WARNING - Aucun moteur vocal disponible
+2026-01-16 14:40:41,767 - __main__ - WARNING - Aucun moteur vocal disponible
+2026-01-16 14:40:42,268 - __main__ - WARNING - Aucun moteur vocal disponible
+2026-01-16 14:40:50,752 - __main__ - WARNING - Aucun moteur vocal disponible
+2026-01-16 14:40:51,256 - __main__ - WARNING - Aucun moteur vocal disponible
+2026-01-16 14:40:51,758 - __main__ - WARNING - Aucun moteur vocal disponible
+2026-01-16 14:40:54,801 - __main__ - WARNING - Aucun moteur vocal disponible
+2026-01-16 14:40:57,777 - __main__ - WARNING - Aucun moteur vocal disponible
+2026-01-16 14:41:00,923 - __main__ - ERROR - Erreur lors de la synth�se vocale: run loop already started
+2026-01-16 14:41:06,039 - __main__ - ERROR - Erreur lors de la synth�se vocale: run loop already started
+2026-01-16 14:41:09,298 - __main__ - ERROR - Erreur lors de la synth�se vocale: run loop already started
+2026-01-16 14:41:16,663 - __main__ - ERROR - Erreur gTTS: [WinError 32] Le processus ne peut pas acc�der au fichier car ce fichier est utilis� par un autre processus: 'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\tmpyj2v4d4s.mp3'
+2026-01-16 14:41:21,835 - __main__ - ERROR - Erreur gTTS: [WinError 32] Le processus ne peut pas acc�der au fichier car ce fichier est utilis� par un autre processus: 'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\tmpyjucdrme.mp3'
+2026-01-16 14:41:27,212 - __main__ - WARNING - Aucun moteur vocal disponible
+2026-01-16 14:41:30,597 - __main__ - WARNING - Aucun moteur vocal disponible
+2026-01-16 14:41:33,333 - __main__ - WARNING - Aucun moteur vocal disponible
+2026-01-16 14:41:35,817 - __main__ - WARNING - Aucun moteur vocal disponible
+2026-01-16 14:41:42,953 - __main__ - ERROR - Erreur gTTS: [WinError 32] Le processus ne peut pas acc�der au fichier car ce fichier est utilis� par un autre processus: 'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\tmpoiubo832.mp3'
+2026-01-16 14:41:47,871 - __main__ - ERROR - Erreur gTTS: [WinError 32] Le processus ne peut pas acc�der au fichier car ce fichier est utilis� par un autre processus: 'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\tmp8vgsi9n6.mp3'
+2026-01-16 14:41:50,474 - __main__ - WARNING - Aucun moteur vocal disponible
+2026-01-16 14:41:52,602 - __main__ - WARNING - Aucun moteur vocal disponible
+2026-01-16 14:41:55,424 - __main__ - WARNING - Aucun moteur vocal disponible
+2026-01-16 15:03:47,138 - __main__ - INFO - Moteur vocal chang� pour: pyttsx3
+2026-01-16 15:14:33,782 - __main__ - INFO - Initialisation des moteurs vocaux...
+2026-01-16 15:14:38,173 - __main__ - INFO - Initialisation des moteurs vocaux...
+2026-01-16 15:14:38,659 - __main__ - INFO - Initialisation des moteurs vocaux...
+2026-01-16 15:14:38,708 - __main__ - INFO - Synth�se vocale: Bonjour, je suis votre assistant vocal professionn...
+2026-01-16 15:14:38,714 - __main__ - ERROR - Erreur pyttsx3: run loop already started
+2026-01-16 15:14:38,715 - __main__ - ERROR - Erreur synth�se vocale: run loop already started
+2026-01-16 15:14:38,715 - __main__ - INFO - Tentative de fallback vocal...
+2026-01-16 15:14:38,715 - __main__ - INFO - Fallback vers VoiceEngine.GTTS
+2026-01-17 07:34:32,567 - __main__ - WARNING - Aucun moteur vocal disponible
+2026-01-17 07:34:34,706 - __main__ - WARNING - Aucun moteur vocal disponible
+2026-01-17 07:34:37,704 - __main__ - WARNING - Aucun moteur vocal disponible
+2026-01-17 08:17:30,235 - __main__ - ERROR - Erreur lors de la synth�se vocale: run loop already started
+2026-01-17 08:17:56,236 - __main__ - ERROR - Erreur lors de la synth�se vocale: run loop already started
+2026-01-17 08:18:15,679 - __main__ - WARNING - Aucun moteur vocal disponible
+2026-01-17 08:18:24,298 - __main__ - ERROR - Erreur gTTS: [WinError 32] Le processus ne peut pas acc�der au fichier car ce fichier est utilis� par un autre processus: 'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\tmpj89hkdud.mp3'
+2026-01-17 08:18:29,034 - __main__ - ERROR - Erreur gTTS: [WinError 32] Le processus ne peut pas acc�der au fichier car ce fichier est utilis� par un autre processus: 'C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\tmpjbzedxh2.mp3'
+2026-01-17 08:18:29,302 - __main__ - ERROR - Erreur lors de la synth�se vocale: run loop already started
+2026-01-17 08:18:33,701 - __main__ - ERROR - Erreur Edge TTS: No audio was received. Please verify that your parameters are correct.
+2026-01-17 08:19:46,258 - __main__ - ERROR - Erreur lors de la synth�se vocale: run loop already started
+2026-01-17 08:19:57,076 - __main__ - ERROR - Erreur lors de la synth�se vocale: run loop already started
+2026-01-17 08:20:09,152 - __main__ - ERROR - Erreur lors de la synth�se vocale: run loop already started
+2026-01-17 08:20:19,273 - __main__ - ERROR - Erreur lors de la synth�se vocale: run loop already started
+2026-01-17 08:21:10,314 - __main__ - ERROR - Erreur lors de la synth�se vocale: run loop already started
+2026-01-17 08:30:45,780 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2026-01-17 08:30:45,933 - __main__ - ERROR - Erreur pyttsx3: run loop already started
+2026-01-17 08:31:53,028 - __main__ - ERROR - Erreur pyttsx3: run loop already started
+2026-01-17 08:31:53,029 - __main__ - ERROR - Erreur lors de la synth�se vocale: run loop already started
+2026-01-17 08:31:53,029 - __main__ - INFO - Tentative avec le moteur de secours: gtts
+2026-01-17 08:31:54,826 - __main__ - ERROR - Erreur pyttsx3: run loop already started
+2026-01-17 08:31:54,830 - __main__ - ERROR - Erreur lors de la synth�se vocale: run loop already started
+2026-01-17 08:31:54,831 - __main__ - INFO - Tentative avec le moteur de secours: gtts
+2026-01-17 08:32:19,987 - __main__ - ERROR - Erreur pyttsx3: run loop already started
+2026-01-17 08:32:19,988 - __main__ - ERROR - Erreur lors de la synth�se vocale: run loop already started
+2026-01-17 08:32:19,989 - __main__ - INFO - Tentative avec le moteur de secours: gtts
+2026-01-17 08:36:09,157 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Administrateur\\PycharmProjects\\chatvoice\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-17 08:36:09,157 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Administrateur\PycharmProjects\chatvoice\.venv\Lib\site-packages\comtypes\gen'
+2026-01-17 08:39:32,643 - __main__ - ERROR - Erreur lors de la synth�se vocale: run loop already started
+2026-01-17 09:20:50,613 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 09:20:50,614 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 09:20:50,974 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 09:20:51,095 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 09:20:51,097 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 09:20:51,110 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 09:20:51,169 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 09:20:51,172 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 09:21:08,836 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 09:21:08,838 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 09:21:09,219 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 09:21:09,383 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 09:21:09,386 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 09:21:09,404 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 09:21:09,469 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 09:21:09,472 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 09:21:21,611 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 09:21:21,613 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 09:21:21,614 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 09:21:21,615 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 09:21:21,616 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 09:21:21,622 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 09:21:21,650 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 09:21:21,653 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 09:22:49,106 - __main__ - INFO - ✅ Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 09:22:49,110 - __main__ - INFO - ✅ Moteur pyttsx3 initialisé
+2026-01-17 09:22:49,111 - __main__ - INFO - ✅ Moteur gTTS initialisé
+2026-01-17 09:22:49,112 - __main__ - INFO - ✅ Edge TTS initialisé (voix Microsoft)
+2026-01-17 09:22:49,113 - __main__ - INFO - ✅ ElevenLabs disponible
+2026-01-17 09:22:49,116 - __main__ - INFO - ✅ Worker vocal démarré
+2026-01-17 09:22:49,150 - __main__ - INFO - ✅ Reconnaissance vocale initialisée
+2026-01-17 09:22:49,154 - __main__ - INFO - 🤖 Assistant professionnel initialisé
+2026-01-17 10:15:24,694 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 10:15:24,694 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 10:15:25,066 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 10:15:25,468 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 10:15:25,471 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 10:15:25,565 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 10:15:25,727 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 10:15:25,749 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 10:15:33,607 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 10:15:33,608 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 10:15:33,608 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 10:15:33,609 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 10:15:33,617 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 10:15:33,626 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 10:15:33,666 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 10:15:33,669 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:07:45,820 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:07:45,822 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:07:45,824 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:07:45,824 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:07:45,825 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:07:45,832 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:07:45,896 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:07:45,907 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:28:20,212 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:28:20,213 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:28:20,213 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:28:20,214 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:28:20,214 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:28:20,218 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:28:20,271 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:28:20,293 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:28:22,320 - root - INFO - [MICRO] Écoute en cours...
+2026-01-17 22:28:24,418 - root - INFO - [OK] Texte reconnu: bonjour
+2026-01-17 22:28:24,527 - root - ERROR - Erreur lors de la synthèse vocale: run loop already started
+2026-01-17 22:28:25,030 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:28:25,030 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:28:25,031 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:28:25,031 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:28:25,032 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:28:25,034 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:28:25,082 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:28:25,133 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:28:33,159 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:28:33,160 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:28:33,161 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:28:33,163 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:28:33,163 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:28:33,167 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:28:33,227 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:28:33,230 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:28:35,684 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:28:35,685 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:28:35,686 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:28:35,686 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:28:35,687 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:28:35,690 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:28:35,752 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:28:35,755 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:28:37,708 - root - INFO - [MICRO] Écoute en cours...
+2026-01-17 22:28:43,785 - root - INFO - [OK] Texte reconnu: bonjour
+2026-01-17 22:28:44,402 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:28:44,403 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:28:44,403 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:28:44,403 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:28:44,404 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:28:44,406 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:28:44,440 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:28:44,491 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:28:50,713 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:28:50,714 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:28:50,715 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:28:50,715 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:28:50,715 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:28:50,717 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:28:50,753 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:28:50,758 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:28:52,732 - root - INFO - [MICRO] Écoute en cours...
+2026-01-17 22:28:55,038 - root - INFO - [OK] Texte reconnu: météo en Tunis
+2026-01-17 22:28:55,652 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:28:55,652 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:28:55,653 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:28:55,653 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:28:55,654 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:28:55,657 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:28:55,705 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:28:55,746 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:29:02,562 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:29:02,565 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:29:02,566 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:29:02,566 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:29:02,566 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:29:02,567 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:29:02,591 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:29:02,594 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:29:04,560 - root - INFO - [MICRO] Écoute en cours...
+2026-01-17 22:29:08,322 - root - INFO - [OK] Texte reconnu: je cherche sur Cristiano
+2026-01-17 22:29:10,573 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:29:10,574 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:29:10,574 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:29:10,574 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:29:10,574 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:29:10,591 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:29:10,621 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:29:10,655 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:29:36,473 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:29:36,474 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:29:36,475 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:29:36,476 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:29:36,477 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:29:36,478 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:29:36,520 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:29:36,524 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:29:38,464 - root - INFO - [MICRO] Écoute en cours...
+2026-01-17 22:29:42,340 - root - INFO - [OK] Texte reconnu: c'est quoi les dates
+2026-01-17 22:29:42,943 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:29:42,944 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:29:42,944 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:29:42,945 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:29:42,945 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:29:42,947 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:29:42,976 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:29:43,022 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:34:35,285 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:34:35,285 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:34:35,286 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:34:35,286 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:34:35,287 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:34:35,289 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:34:35,360 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:34:35,391 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:34:37,445 - root - INFO - [MICRO] Écoute en cours...
+2026-01-17 22:34:42,605 - root - INFO - [OK] Texte reconnu: c'est quoi
+2026-01-17 22:34:43,345 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:34:43,353 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:34:43,376 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:34:43,385 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:34:43,397 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:34:43,410 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:34:43,523 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:34:43,600 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:34:49,054 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:34:49,066 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:34:49,074 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:34:49,102 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:34:49,126 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:34:49,189 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:34:49,384 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:34:49,399 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:34:51,540 - root - INFO - [MICRO] Écoute en cours...
+2026-01-17 22:34:56,599 - root - INFO - [OK] Texte reconnu: recherche sur
+2026-01-17 22:35:00,840 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:35:00,860 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:35:00,889 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:35:00,926 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:35:00,947 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:35:01,008 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:35:01,068 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:35:01,152 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:35:01,188 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:35:01,188 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:35:01,230 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:35:01,398 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:35:01,401 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:35:01,593 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:35:01,794 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:35:01,823 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:35:04,054 - root - INFO - [MICRO] Écoute en cours...
+2026-01-17 22:35:08,596 - root - WARNING - [ATTENTION] Erreur reconnaissance: 
+2026-01-17 22:35:09,250 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:35:09,282 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:35:09,306 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:35:09,322 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:35:09,340 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:35:09,388 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:35:09,496 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:35:09,550 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:35:16,625 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:35:16,627 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:35:16,628 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:35:16,632 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:35:16,635 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:35:16,639 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:35:16,699 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:35:16,708 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:35:18,768 - root - INFO - [MICRO] Écoute en cours...
+2026-01-17 22:35:22,312 - root - INFO - [OK] Texte reconnu: cherche sur Tunisie
+2026-01-17 22:35:25,705 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:35:25,705 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:35:25,706 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:35:25,710 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:35:25,712 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:35:25,719 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:35:25,779 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:35:25,820 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:35:33,139 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:35:33,144 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:35:33,146 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:35:33,148 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:35:33,150 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:35:33,155 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:35:33,215 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:35:33,224 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:35:35,280 - root - INFO - [MICRO] Écoute en cours...
+2026-01-17 22:35:40,064 - root - INFO - [OK] Texte reconnu: expliquer c'est quoi les intelligence artificielle
+2026-01-17 22:35:40,715 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:35:40,716 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:35:40,716 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:35:40,719 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:35:40,720 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:35:40,724 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:35:40,772 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:35:40,826 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:43:50,408 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:43:50,414 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:43:50,419 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:43:50,422 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:43:50,430 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:43:50,449 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:43:50,545 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:43:50,568 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:43:53,231 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:43:53,232 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:43:53,233 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:43:53,234 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:43:53,235 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:43:53,237 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:43:53,306 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:43:53,312 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:43:53,964 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:43:53,965 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:43:53,965 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:43:53,966 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:43:53,966 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:43:53,969 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:43:54,018 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:43:54,026 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:43:56,351 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:43:56,352 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:43:56,352 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:43:56,353 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:43:56,353 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:43:56,355 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:43:56,417 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:43:56,425 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:43:58,493 - root - INFO - [MICRO] Écoute en cours...
+2026-01-17 22:44:01,200 - root - INFO - [OK] Texte reconnu: météo en Tunis
+2026-01-17 22:44:01,831 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:44:01,832 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:44:01,833 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:44:01,833 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:44:01,834 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:44:01,836 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:44:01,887 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:44:01,948 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:44:13,487 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:44:13,488 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:44:13,489 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:44:13,489 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:44:13,490 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:44:13,492 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:44:13,537 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:44:13,543 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:44:17,525 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:44:17,526 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:44:17,526 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:44:17,527 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:44:17,527 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:44:17,530 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:44:17,569 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:44:17,576 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:44:20,909 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:44:20,910 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:44:20,910 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:44:20,911 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:44:20,911 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:44:20,913 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:44:20,960 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:44:20,979 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:44:21,957 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:44:21,959 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:44:21,961 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:44:21,962 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:44:21,963 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:44:21,972 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:44:22,027 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:44:22,032 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:44:22,640 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:44:22,641 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:44:22,642 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:44:22,642 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:44:22,643 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:44:22,645 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:44:22,686 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:44:22,691 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:44:23,063 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:44:23,063 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:44:23,064 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:44:23,064 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:44:23,064 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:44:23,066 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:44:23,114 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:44:23,119 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-17 22:44:29,309 - root - INFO - [OK] Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-17 22:44:29,310 - root - INFO - [OK] Moteur pyttsx3 initialisé
+2026-01-17 22:44:29,310 - root - INFO - [OK] Moteur gTTS initialisé
+2026-01-17 22:44:29,310 - root - INFO - [OK] Edge TTS initialisé (voix Microsoft)
+2026-01-17 22:44:29,311 - root - INFO - [OK] ElevenLabs disponible
+2026-01-17 22:44:29,314 - root - INFO - [OK] Worker vocal démarré
+2026-01-17 22:44:29,356 - root - INFO - [OK] Reconnaissance vocale initialisée
+2026-01-17 22:44:29,363 - root - INFO - [ROBOT] Assistant professionnel initialisé
+2026-01-19 07:34:21,149 - __main__ - INFO - ✅ Voix française trouvée: Microsoft Hortense Desktop - French
+2026-01-19 07:34:21,152 - __main__ - INFO - ✅ Moteur pyttsx3 initialisé
+2026-01-19 07:34:21,155 - __main__ - INFO - ✅ Moteur gTTS initialisé
+2026-01-19 07:34:21,156 - __main__ - INFO - ✅ Edge TTS initialisé (voix Microsoft)
+2026-01-19 07:34:21,157 - __main__ - INFO - ✅ ElevenLabs disponible
+2026-01-19 07:34:21,176 - __main__ - INFO - ✅ Worker vocal démarré
+2026-01-19 07:34:21,281 - __main__ - INFO - ✅ Reconnaissance vocale initialisée
+2026-01-19 07:34:21,309 - __main__ - INFO - 🤖 Assistant professionnel initialisé

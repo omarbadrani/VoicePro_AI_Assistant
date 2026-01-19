@@ -1,0 +1,14 @@
+# requirements_nexus.txt
+streamlit>=1.28.0
+pandas>=2.0.0
+requests>=2.31.0
+numpy>=1.24.0
+python-dotenv>=1.0.0
+
+# Reconnaissance vocale (optionnel)
+SpeechRecognition>=3.10.0
+pyttsx3>=2.90
+
+# Interface avancée
+plotly>=5.17.0
+altair>=5.0.0
